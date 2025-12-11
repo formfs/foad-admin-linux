@@ -1,6 +1,6 @@
 # FOAD administration linux
 
-LA **FOAD** du jour va consister en 2 projets :
+LA **FOAD** du jour va consister en 2 **projets** :
 
 ## Premiere projet 
 ### Docker 
