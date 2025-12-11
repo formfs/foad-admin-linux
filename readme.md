@@ -35,7 +35,7 @@ Installer un **serveur** avec les spécifications suivantes , libre à vous de c
 
 Voici les livrables que vous devez donner :
 
-Créer un depot sur **github** ou autres plateformes d'hebergement git que vous nommerez **foad-admin-linux** , sur ce **dépôt** vous devrez  :
+Créer un depot sur **github** ou autres plateformes d'hebergement **git** que vous nommerez **foad-admin-linux** , sur ce **dépôt** vous devrez  :
 
 * Créer un **readme** pour :
   * expliquer la création de votre image **docker** et la création de **containeurs** avec votre image **docker** du **projet 1**
