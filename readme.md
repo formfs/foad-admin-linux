@@ -48,3 +48,6 @@ Créer un depot sur **github** ou autres plateformes d'hebergement **git** que v
   * Pour le project 2 faire une capture d'ecran de la commande `docker run --rm hello-world` nommé **fal-04.(png ou jpg)**  
 * Mettre dans votre dépôt le fichier **sshd_config** de votre serveur en le nettoyant de toutes lignes commentées avec *#* pour ne laisser que les lignes nécéssaires
 
+## Bonus pas obligatoire
+
+Utiliser l'image que vous avez créer dans le projet 1 sur le serveur de votre projet 2.
