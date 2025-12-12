@@ -50,4 +50,4 @@ Créer un depot sur **github** ou autres plateformes d'hebergement **git** que v
 
 ## Bonus pas obligatoire
 
-Utiliser l'image que vous avez créer dans le projet 1 sur le serveur de votre projet 2.
+Utiliser l'image **docker** que vous avez créer dans le projet 1 sur le serveur de votre projet 2.
